@@ -1,7 +1,8 @@
 # credit-api
 
 <h1>
-Projeto Criando uma Api Rest com Kotlin e Persistência de Dados
+Projeto Criando uma Api Rest com Kotlin e Persistência de Dados e 
+Documentando e Testando sua API Rest com Kotlin
 </h1>
 
 
